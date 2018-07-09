@@ -1,0 +1,11 @@
+CREATE TABLE pastries
+  (
+    name VARCHAR(100),
+    quantity INT
+  );
+
+SHOW TABLES;
+
+DESC pastries;
+
+DROP TABLE pastries;
